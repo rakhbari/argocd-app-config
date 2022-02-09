@@ -19,7 +19,7 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
 
 #### Links
 
-* Config repo: [https://git.soma.salesforce.com/rakhbari/argocd-app-config](https://git.soma.salesforce.com/rakhbari/argocd-app-config)
+* Config repo: [https://github.com/rakhbari/argocd-app-config](https://github.com/rakhbari/argocd-app-config)
 
 * Install ArgoCD: [https://argo-cd.readthedocs.io/en/stable/getting_started/#1-install-argo-cd](https://argo-cd.readthedocs.io/en/stable/getting_started/#1-install-argo-cd)
 
