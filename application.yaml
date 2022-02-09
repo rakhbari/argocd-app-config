@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://git.soma.salesforce.com/rakhbari/argocd-app-config.git
+    repoURL: https://github.com/rakhbari/argocd-app-config.git
     targetRevision: HEAD
     path: dev
   destination:
